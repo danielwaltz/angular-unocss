@@ -23,16 +23,21 @@
     "zone.js": "~0.12.0"
   },
   "devDependencies": {
+    "@angular-builders/custom-webpack": "^15.0.0",
     "@angular-devkit/build-angular": "^15.2.9",
     "@angular/cli": "~15.2.9",
     "@angular/compiler-cli": "^15.2.0",
+    "@moser-inc/unocss-preset-moser-labs": "^1.7.1",
     "@types/jasmine": "~4.3.0",
+    "@unocss/postcss": "^0.53.5",
     "jasmine-core": "~4.5.0",
     "karma": "~6.4.0",
     "karma-chrome-launcher": "~3.1.0",
     "karma-coverage": "~2.2.0",
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.0.0",
-    "typescript": "~4.9.4"
+    "postcss": "^8.4.26",
+    "typescript": "~4.9.4",
+    "unocss": "^0.53.5"
   }
 }
